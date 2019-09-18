@@ -1,2 +1,2 @@
-# c-_docker_builder
+# cpp_docker_builder
 A flexive docker c++ builder with cmake, boost.build and ninja
